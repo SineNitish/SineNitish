@@ -4,7 +4,7 @@
 
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me sine.nitish1608@gmail.com
-- 
+
 I'm Sine Nitish, and I'm from Vizag. I'm currently pursuing a bachelor of Technology in the Computer Science and Engineering stream at Madanapalle Institute of Technology
 and Science,India
 I attended a CBSE board Kendriya Vidyalaya No. 2, SVN school, till my X grade, later I transferred to a state board, Sri Chaitanya junior college. 
