@@ -9,7 +9,21 @@
   <a href="https://www.linkedin.com/in/sine-nitish-b9b421204//" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Sine_Nitish-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sine-nitish-b9b421204/"/></a><br><br>
   <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
- 
+ <br/>
+
+<div align="center">
+<h3> 🤝🏻 Connect With Me @ </h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/sine-nitish-b9b421204)
+[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/SineNitish)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/sine_nitish?r=nametag)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:sine.nitish@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/NitishSine?s=08)
+
+</div>
+
+<br/>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
  
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -38,11 +52,24 @@ You can click the Preview link to take a look at your changes.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=SineNitish&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<br/>
+       
+<a href="https://github.com/Chayan-11">
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SineNitish&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SineNitish&theme=chartreuse-dark">
+  
+</a>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=SineNitish&theme=dark" width="45%" >
+<br/>
 
-<br>
+#
+
+![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SineNitish&theme=react-dark&hide_border=true&area=true)
+
+#
+
+<br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 <div align="center">
