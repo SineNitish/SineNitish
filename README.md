@@ -28,18 +28,18 @@
  
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👀 I’m interested in coding and learing new things releated to thechnoliges 
-- 🌱 I’m currently  pursuing a bachelor of Technology in the stream Computer Science and Engineering at Madanapalle Institute of Technology and Science,India.
+- 👀 I’m interested in coding and learning new things related to technologies 
+- 🌱 I’m currently pursuing a Bachelor of Technology in the stream Computer Science and Engineering at Madanapalle Institute of Technology and Science, India.
 - 📫 How to reach me sine.nitish1608@gmail.com
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
-I'm Sine Nitish, and I'm from Vizag. I'm currently pursuing a bachelor of Technology in the Computer Science and Engineering stream at Madanapalle Institute of Technology
-and Science,India
+I'm Sine Nitish, and I'm from Vizag. I'm currently pursuing a Bachelor of Technology in the Computer Science and Engineering stream at Madanapalle Institute of Technology
+and Science, India
 I attended a CBSE board Kendriya Vidyalaya No. 2, SVN school, till my X grade, later I transferred to a state board, Sri Chaitanya junior college. 
-My father is a retired army Soldier, and my mother is a homemaker. I'm having an elder brother who is a software engineer
+My father is a retired Army Soldier, and my mother is a homemaker. I'm having an elder brother who is a software engineer
  
 Achievements and defeats are inextricably related to successes and setbacks. Anyone who accomplishes something today has missed something the day before.
 My family has always been a source of inspiration and motivation for me, especially my mother. That is why I am today a self-motivated, empowered, and committed person.
