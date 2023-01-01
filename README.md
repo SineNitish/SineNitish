@@ -27,7 +27,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
  
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/77968544/210177582-9c3c5f29-7c5c-413f-8893-e813f485dd3c.png" />
 
 - 👀 I’m interested in coding and learning new things related to technologies 
 - 🌱 I’m currently pursuing a Bachelor of Technology in the stream Computer Science and Engineering at Madanapalle Institute of Technology and Science, India.
