@@ -1,4 +1,4 @@
-![Picsart_23-01-01_18-54-19-486](https://user-images.githubusercontent.com/77968544/210176730-dac82425-545b-4d63-9709-3392ece0bd96.jpg)
+![Picsart_23-01-01_18-54-19-486-removebg](https://user-images.githubusercontent.com/77968544/210393781-1e7959f1-0e07-4304-a20b-124e28670dcf.png)
 
 
 <h1 align="center"> Hi, I'm Sine Nitish <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
