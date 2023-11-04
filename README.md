@@ -52,7 +52,12 @@ You can click the Preview link to take a look at your changes.
 --->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 ## 🏆 Github Status
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SineNitish&show_icons=true&locale=en&layout=compact" alt="SineNitish" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SineNitish&show_icons=true&locale=en" alt="SineNitish" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SineNitish&" alt="SineNitish" /></p>
 <br/>
        
 <a href="https://github.com/Chayan-11">
