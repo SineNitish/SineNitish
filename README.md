@@ -59,15 +59,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SineNitish&" alt="SineNitish" /></p>
 <br/>
-       
-<a href="https://github.com/Chayan-11">
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SineNitish&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SineNitish&theme=chartreuse-dark">
-  
-</a>
-
-<br/>
 
 #
 
